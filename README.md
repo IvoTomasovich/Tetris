@@ -1,4 +1,5 @@
 **Tetris Game - OpenGL C Implementation**
+
 **Overview**
 
 This repository contains the source code for a Tetris game implemented in C using OpenGL. The game demonstrates basic rendering, user interaction, and game logic, showcasing fundamental concepts in game development and graphics programming.
